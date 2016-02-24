@@ -1,4 +1,20 @@
-analytics: {}
+name: Bob
+favicon: null
+layout_spectrum: 0.7586990121550866
+typography_spectrum: 0.5483265068430728
+title: 'Photographer, Traveler, Dreamer'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#71A7FE'
@@ -8,11 +24,9 @@ color:
     - '#CEAFC0'
   brandStrength: 0.15738158950565118
   lightness: 0.4985858825898106
-  rhythmicContrast: 0.28414563395558023
   saturation: 0.2854107067722047
-cta: {}
-layout_spectrum: 0.7586990121550866
-name: Bob
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.5483265068430728
+  rhythmicContrast: 0.28414563395558023
+purpose:
+  - name: null
+    item: null
+    url: null
